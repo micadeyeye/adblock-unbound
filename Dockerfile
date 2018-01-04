@@ -1,6 +1,5 @@
 FROM alpine:latest
 
-
 MAINTAINER Thierry Thuon
 
 ADD entrypoint.sh /entrypoint.sh
